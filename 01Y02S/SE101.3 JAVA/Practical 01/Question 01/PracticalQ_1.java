@@ -1,5 +1,5 @@
 
-//1.Write you first java program to display “Hello World” on the screen. 
+//1.Write you first java program to display “Hello World” on the Screen. 
 
 package com.mycompany.practicalq_1;
 
