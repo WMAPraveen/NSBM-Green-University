@@ -1,0 +1,15 @@
+
+package com.mycompany.question_10;
+
+public class Shape 
+{
+    public void draw()
+    {
+         System.out.println("Draw a shape");
+    }
+    
+    public void erase()
+    {
+         System.out.println("Erase the shape");
+    }
+}
